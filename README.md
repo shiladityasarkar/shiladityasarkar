@@ -1,6 +1,3 @@
-<div id='hello' align='center'>
-  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xNWZidXNvNzQ4bnhvbjh4dDR3ZGo2aXJjZ2p5emwwamZvc2dtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptSqy6yYse5AaDRn0/giphy.gif' width='100'/>
-</div>
 <div align='center'>
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkczh4bDM2empwNWRmOWFqM202ODBxM21yc3loYnVndHh0dTM1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif'/></div>
 <a href="mailto:writetoshiladitya@gmail.com">
@@ -9,7 +6,7 @@
 
 ---
 
-## Who am I?
+## Who am I? <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xNWZidXNvNzQ4bnhvbjh4dDR3ZGo2aXJjZ2p5emwwamZvc2dtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptSqy6yYse5AaDRn0/giphy.gif' width='60' align='right' />
 #### I am a mathematics enthusiast, with an unbound interest in the security of large neural networks particularly LLMs. I fine-tune them for various downstream applications, exploit loopholes and explain concepts in my blog page.
 
 ### My day-to-day 🚀

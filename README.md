@@ -1,22 +1,11 @@
 <div id='hello' align='center'>
-  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xNWZidXNvNzQ4bnhvbjh4dDR3ZGo2aXJjZ2p5emwwamZvc2dtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptSqy6yYse5AaDRn0/giphy.gif' width='220'/>
+  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xNWZidXNvNzQ4bnhvbjh4dDR3ZGo2aXJjZ2p5emwwamZvc2dtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptSqy6yYse5AaDRn0/giphy.gif' width='100'/>
 </div>
-
-
-<div id='batches' align='center'>
-      <a href='https://medium.com/@writetoshiladitya'>
-        <img src='https://img.shields.io/badge/Medium-black?style=plastic&logo=Medium&logoColor=white&labelColor=black' width='100'/>
-      </a> &nbsp; &nbsp;
-      <a href='https://www.linkedin.com/in/shiladityasarkar/'>
-        <img src='https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=white' width='99'/>
-      </a> &nbsp; &nbsp;
-      <a href='https://twitter.com/__shiladitya'>
-        <img src='https://img.shields.io/badge/Twitter-black?style=plastic&logo=X&logoColor=white&labelColor=black' width='100'/>
-      </a>
-</div>
-
-<div align='center'> <br> <br> 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkczh4bDM2empwNWRmOWFqM202ODBxM21yc3loYnVndHh0dTM1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif'/> </div>
+<div align='center'>
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkczh4bDM2empwNWRmOWFqM202ODBxM21yc3loYnVndHh0dTM1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif'/></div>
+<a href="mailto:writetoshiladitya@gmail.com">
+<img src='https://img.shields.io/badge/writetoshiladitya%40gmail.com-darkviolet?style=plastic&logo=gmail&logoColor=white&labelColor=violet' height='20' align='right'>
+</a>
 
 ---
 
@@ -28,8 +17,23 @@
 
 ---
 
-#### _Feel free to write to me personally at ...._ 
-<img src='https://img.shields.io/badge/writetoshiladitya%40gmail.com-darkviolet?style=plastic&logo=gmail&logoColor=white&labelColor=violet' height='20'>
+### My Stats :fire:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shiladityasarkar&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiladityasarkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+#### _Feel free to find to me @...._ 
+<div id='batches' align='left'>
+      <a href='https://medium.com/@writetoshiladitya'>
+        <img src='https://img.shields.io/badge/Medium-black?style=plastic&logo=Medium&logoColor=white&labelColor=black' alt='sdj' width='100'/>
+      </a> <br> 
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href='https://www.linkedin.com/in/shiladityasarkar'>
+        <img src='https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=white' width='99'/>
+      </a> <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href='https://twitter.com/__shiladitya'>
+        <img src='https://img.shields.io/badge/Twitter-black?style=plastic&logo=X&logoColor=white&labelColor=black' width='100'/>
+      </a>
+</div>
 
 
 
